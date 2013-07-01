@@ -450,4 +450,16 @@ public class HorizontalDatePicker extends LinearLayout implements DatePicker {
             }
         };
     }
+
+    public HorizontalVariableListView getYearPicker() {
+        return yearPicker;
+    }
+
+    public HorizontalVariableListView getMonthPicker() {
+        return monthPicker;
+    }
+
+    public HorizontalVariableListView getDayPicker() {
+        return dayPicker;
+    }
 }
