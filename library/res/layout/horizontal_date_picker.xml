@@ -3,21 +3,21 @@
        android:orientation="vertical">
 
     <it.sephiroth.android.library.widget.HorizontalVariableListView
-        android:id="@+id/horizontal_date_picker_year"
-        android:layout_height="wrap_content"
-        android:layout_width="fill_parent"
-        />
+            android:id="@+id/horizontal_date_picker_year"
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent"
+            />
 
     <it.sephiroth.android.library.widget.HorizontalVariableListView
-        android:id="@+id/horizontal_date_picker_month"
-        android:layout_height="wrap_content"
-        android:layout_width="fill_parent"
-        />
+            android:id="@+id/horizontal_date_picker_month"
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent"
+            />
 
     <it.sephiroth.android.library.widget.HorizontalVariableListView
-        android:id="@+id/horizontal_date_picker_day"
-        android:layout_height="wrap_content"
-        android:layout_width="fill_parent"
-        />
+            android:id="@+id/horizontal_date_picker_day"
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent"
+            />
 
 </merge>
